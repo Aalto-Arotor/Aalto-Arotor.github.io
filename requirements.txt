@@ -8,8 +8,8 @@ jupyterlite-pyodide-kernel==0.7.0
 
 # Language support (optional)
 jupyterlab-language-pack-fr-FR
-jupyterlab-language-pack-fr-IT
-jupyterlab-language-pack-fr-DE
+jupyterlab-language-pack-it-IT
+jupyterlab-language-pack-de-DE
 jupyterlab-language-pack-zh-CN
 
 # JupyterLab: dark theme
